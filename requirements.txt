@@ -1,5 +1,5 @@
 transformers
-transformers[sentnencepiece]
+transformers[sentencepiece]
 datasets
 sacrebleu
 rouge_score
